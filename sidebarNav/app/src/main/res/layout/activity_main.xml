@@ -27,6 +27,7 @@
         app:menu="@menu/navmenu"
         android:layout_gravity="start"
         app:headerLayout="@layout/navheader"
+        android:id="@+id/NavView"
         ></android.support.design.widget.NavigationView>
     
 
